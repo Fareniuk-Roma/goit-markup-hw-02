@@ -19,7 +19,8 @@ body {
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
 }
-.logo {
+.logo,
+.text {
   color: var(--accent-color);
   font-family: Raleway;
   font-weight: bold;
